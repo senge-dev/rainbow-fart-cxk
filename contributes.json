@@ -1,0 +1,70 @@
+{
+    "contributes": [
+        {
+            "keywords": ["import ", "from "],
+            "voices":[
+                "全民制作人们，大家好.mp3"
+            ]
+        },
+        {
+            "keywords": ["def ", "class ", "int", "float", "str", "list", "tuple", "dict", "set", "bool", "async ", "lambda"],
+            "voices":[
+                "唱跳Rap篮球.mp3"
+            ]
+        },
+        {
+            "keywords": ["if ", "elif "],
+            "voices": [
+                "其实我平时很厉害的，你知道吗.mp3"
+            ]
+        },
+        {
+            "keywords": ["else:"],
+            "voices": [
+                "我真的不行.mp3"
+            ]
+        },
+        {
+            "keywords": ["for ", "while "],
+            "voices": [
+                "鸡你太美.mp3"
+            ]
+        },
+        {
+            "keywords": ["break", "continue"],
+            "voices": [
+                "你没只因只因.mp3"
+            ]
+        },
+        {
+            "keywords": ["return", "pass"],
+            "voices": [
+                "你好烦.mp3"
+            ]
+        },
+        {
+            "keywords": ["try:"],
+            "voices": [
+                "你干嘛.mp3"
+            ]
+        },
+        {
+            "keywords": ["input(", "print(", "getpass("],
+            "voices": [
+                "你让我拿什么荔枝.mp3"
+            ]
+        },
+        {
+            "keywords": ["fuck", "鸡你太美", "你干嘛", "绿尸寒"],
+            "voices": [
+                "食不食人啦.mp3"
+            ]
+        },
+        {
+            "keywords": ["except ", "except:", "raise"],
+            "voices": [
+                "你干嘛，倒放.mp3"
+            ]
+        }
+    ]
+}

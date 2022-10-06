@@ -1,0 +1,11 @@
+{
+    "name": "rainbow-fart-cxk",
+    "display-name": "ikun专用Rainbow Fart语音包",
+    "avatar": "avatar.png",
+    "version": "1.0.0",
+    "description": "鸡你太美————ikun专属Rainbow Fart语音包",
+    "languages": ["python"],
+    "author": "senge-dev",
+    "gender": "male",
+    "locale": "zh"
+}
